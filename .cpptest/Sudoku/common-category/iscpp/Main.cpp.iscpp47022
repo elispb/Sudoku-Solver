@@ -1,0 +1,6 @@
+fileName=G:\AP\ACW_Sudoku - Untampered\ACW_Sudoku\Main.cpp
+isCpp=
+compilerOpts=-I"C:\Program Files (x86)\Parasoft\C++test for Visual Studio\9.6\engine\runtime\include" /Zi /W3 /O2 /EHsc /MD /fp:precise /Gd /GS /Oi /Oy- /Gm- /Gy /DWIN32 /DNDEBUG /D_CONSOLE /D_UNICODE /DUNICODE /Zc:wchar_t /Zc:forScope /Zc:inline /WX- /nologo -DPARASOFT_CPPTEST -I.
+compilerId=vc_14_0
+workingDir=G:\AP\ACW_Sudoku - Untampered\ACW_Sudoku\
+advancedOptionsHash=0
