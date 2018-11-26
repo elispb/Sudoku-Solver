@@ -1,4 +1,0 @@
-﻿  SudokuPuzzle.cpp
-g:\ap\acw_sudoku\acw_sudoku\sudokupuzzle.cpp(218): warning C4018: '<': signed/unsigned mismatch
-  Sudoku.vcxproj -> G:\AP\ACW_Sudoku\ACW_Sudoku\Debug\Sudoku.exe
-  Sudoku.vcxproj -> G:\AP\ACW_Sudoku\ACW_Sudoku\Debug\Sudoku.pdb (Full PDB)
