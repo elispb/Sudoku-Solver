@@ -2,4 +2,4 @@
 * text=auto
 
 * linguist-vendored
-*.c++ linguist-vendored=false
+*.cpp linguist-vendored=false
